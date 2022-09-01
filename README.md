@@ -2,4 +2,4 @@
 
  Blog Website w Database using Mongo Node Express CSS
 
-https://blooming-island-52665.herokuapp.com/
+https://my-blog-daily-journal.herokuapp.com/
